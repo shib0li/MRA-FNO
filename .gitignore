@@ -5,11 +5,9 @@
 __pycache__
 *.pyc
 *.hkl
-*.mat
 .Trash-0
 __dump__
 __temp__
 .npy
 .mat
 __cache__
-matfiles
